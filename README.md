@@ -1,4 +1,4 @@
-# Taylor_test
+# This is a weird test
 test repo for git + github lesson
 
 ## Purpose
