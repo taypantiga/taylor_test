@@ -1,4 +1,4 @@
-# Taylor_test
+# Taylor Test
 test repo for git + github lesson
 
 ## Purpose
